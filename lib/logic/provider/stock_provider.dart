@@ -1,8 +1,6 @@
 import 'dart:async';
 import 'dart:math';
-
 import 'package:flutter/cupertino.dart';
-
 import '../model/portfoloioEntry.dart';
 import '../model/stock.dart';
 
